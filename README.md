@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsimonob
+- 👋 Hi, I’m @kofithebos
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
